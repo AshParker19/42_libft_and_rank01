@@ -2,3 +2,6 @@ The first project of the Common Core. Here you will need to create your own libr
 
 
 ![Screenshot 2023-04-13 at 18-54-23 Intra Projects Libft](https://user-images.githubusercontent.com/117525743/231844458-909ada76-689f-490b-a700-8576497aa2d4.png)
+
+The subject:
+[en.subject.pdf](https://github.com/AshParker19/42Lisboa-Common-Core/files/11225179/en.subject.pdf)
