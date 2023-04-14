@@ -1,4 +1,4 @@
-The second project of the course! The purpose of the project is to recreate a standart fucntion printf in order to get a better understanding how the ones work. For this project you need to learn a concept of variadic variables, which is an actually interesting one!
+The purpose of the project is to recreate a standart fucntion printf in order to get a better understanding how the one work. For this project you need to learn a concept of variadic variables, which is an actually interesting one!
 
 The guide which really helped me to understand the way to finish the task - https://www.youtube.com/watch?v=3iX9a_l9W9Y
 
