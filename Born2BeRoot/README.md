@@ -1,8 +1,8 @@
-The video I use to set up my VM:
+The video I used to set up my VM:
 
 https://www.youtube.com/watch?v=OQEdjt38ZJA
 
-The guides I use to configure it:
+The guides I used to configure it:
 
 https://github.com/benmaia/42_Born2beRoot_Guide
 
