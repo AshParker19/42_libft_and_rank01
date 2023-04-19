@@ -3,7 +3,9 @@ https://www.youtube.com/watch?v=OQEdjt38ZJA
 
 The guides I use to configure it:
 https://github.com/benmaia/42_Born2beRoot_Guide
+
 https://github.com/pasqualerossi/Born2BeRoot-Guide
+
 https://github.com/HEADLIGHTER/Born2BeRoot-42
 
 The evaluating guide:
