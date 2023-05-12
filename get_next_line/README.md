@@ -3,5 +3,3 @@ The idea of the project is to create a function which will read the information 
 
 ![Screenshot 2023-04-13 at 19-26-36 Intra Projects get_next_line](https://user-images.githubusercontent.com/117525743/231850433-114bb9b8-5abf-4e33-a478-91d7862666f6.png)
 
-
-The subject: [get_next_line.en.subject.pdf](https://github.com/AshParker19/42Lisboa-Common-Core/files/11231648/get_next_line.en.subject.pdf)
