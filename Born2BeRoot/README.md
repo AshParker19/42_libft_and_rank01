@@ -1,3 +1,7 @@
+The aim of this project is to gain some knowledge of virtual maschines and get some skills to work with them.
+
+![Screenshot 2023-04-20 at 21-50-44 Intra Projects Born2beroot](https://github.com/AshParker19/42Lisboa_libft_and_rank01/assets/117525743/a9902805-089f-4a57-833a-33313ebea979)
+
 The video I used to set up my VM:
 
 https://www.youtube.com/watch?v=OQEdjt38ZJA
